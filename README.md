@@ -1,8 +1,8 @@
-# CMOS Inverter ASIC
+# CMOS Inverter IC Design
 
-A CMOS inverter designed and laid out as my first ASIC design project.
+A CMOS inverter designed and laid out as my first IC design project.
 
-The project covers the basic ASIC design flow from schematic capture to physical layout and GDS generation. The design is currently proceeding toward tapeout.
+The project covers the basic IC design flow from schematic capture to physical layout and GDS generation. The design is currently proceeding toward tapeout.
 
 <p align="center">
   <img src="docs/schematic.png" width="45%">
@@ -58,7 +58,7 @@ The design is proceeding toward tapeout with support from the ISHI-Kai semicondu
 
 Tapeout is expected to be completed this winter.
 
-This is my first ASIC design project, and I am continuing to build experience in analog and mixed-signal IC design.
+This is my first IC design project, and I am continuing to build experience in analog and mixed-signal IC design.
 
 ## Files
 
