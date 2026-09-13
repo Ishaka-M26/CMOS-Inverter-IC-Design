@@ -1,4 +1,4 @@
-# CMOS Inverter IC Design
+# CMOS Inverter IC Design — Tapeout in progress
 
 A CMOS inverter designed and laid out as my first IC design project.
 
