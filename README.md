@@ -32,9 +32,31 @@ The inverter consists of a complementary PMOS/NMOS pair.
 
 The physical layout was created in KLayout and exported as GDS.
 
+## Verification
+
+The layout was checked using DRC and LVS before tapeout.
+
+### DRC
+
+<p align="center">
+  <img src="docs/drc_result.png" width="80%">
+</p>
+
+No errors.
+
+### LVS
+
+<p align="center">
+  <img src="docs/lvs_result.png" width="80%">
+</p>
+
+All Green.
+
 ## Current Status
 
-The design is currently proceeding toward tapeout.
+The design is proceeding toward tapeout with support from the ISHI-Kai semiconductor community in Japan.
+
+Tapeout is expected to be completed this winter.
 
 This is my first ASIC design project, and I am continuing to build experience in analog and mixed-signal IC design.
 
