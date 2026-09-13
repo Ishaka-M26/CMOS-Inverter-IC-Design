@@ -28,6 +28,18 @@ Through this project, I learned how concepts I was familiar with from PCB design
 
 The inverter consists of a complementary PMOS/NMOS pair.
 
+## Simulation
+
+The inverter was simulated using ngspice with a 5 V supply.
+
+The PMOS and NMOS device dimensions were adjusted so that the switching threshold is approximately 2.5 V, near half of the supply voltage.
+
+<p align="center">
+  <img src="docs/dc_transfer.png" width="75%">
+</p>
+
+The DC transfer characteristic shows the output transition around Vin ≈ 2.5 V.
+
 ## Layout
 
 The physical layout was created in KLayout and exported as GDS.
